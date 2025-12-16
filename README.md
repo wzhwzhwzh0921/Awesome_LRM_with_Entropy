@@ -1,4 +1,4 @@
-# Entropy Mechanism in Large Reasoning Models: A Survey
+# A Survey on Entropy Mechanism in Large Reasoning Models
 
 [![arXiv](https://img.shields.io/badge/arXiv-2XXX.XXXXX-b31b1b.svg)](link-to-paper)
 
